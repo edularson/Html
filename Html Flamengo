@@ -9,8 +9,12 @@
     <style>
         div {
           background-color: #740505;
-          color: #d5dce8;
+          color:white;
           padding: 22px;
+        }
+        body{
+            background-color: black;
+            color:white
         }
     </style>
     </head>
